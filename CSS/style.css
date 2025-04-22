@@ -1,0 +1,12 @@
+h1 {font-size: xx-large;}
+
+#navlist li {list-style-type: none;
+            display: inline;
+            padding-right: 10px;}
+
+body {background-color: #9DBDFF;}
+
+hr {background-color: red;
+    border-style: none;
+
+}
