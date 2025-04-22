@@ -1,4 +1,11 @@
-h1 {font-size: xx-large;}
+h1 {font-size: xx-large;
+    color: #81E7AF;
+}
+
+p {
+    color:#81E7AF;
+
+}
 
 #navlist li {list-style-type: none;
             display: inline;
@@ -6,7 +13,11 @@ h1 {font-size: xx-large;}
 
 body {background-color: #9DBDFF;}
 
-hr {background-color: red;
+hr {
     border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 20%;
 
 }
